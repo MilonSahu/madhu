@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="340" started-at="2018-03-06T06:53:53Z" finished-at="2018-03-06T06:53:54Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="340" started-at="2018-03-06T06:53:53Z" finished-at="2018-03-06T06:53:54Z">
+      <class name="demo.java">
+        <test-method status="PASS" signature="sendAmount()[pri:0, instance:demo.java@5dfcfece]" name="sendAmount" duration-ms="294" started-at="2018-03-06T12:23:54Z" finished-at="2018-03-06T12:23:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sendAmount -->
+      </class> <!-- demo.java -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
